@@ -1,3 +1,9 @@
+Bones' Coreboot src/
+===============
+
+I recommend you build from source! My working config is located in configs/ for you to customize. Bootsplash, Serial, Version can be manually set.
+I also recommend drilling a hole over your SOIC-16 in the metal frame, makes subsequent flashes almost effortless.
+
 coreboot README
 ===============
 
